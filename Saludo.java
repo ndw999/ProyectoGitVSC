@@ -1,10 +1,11 @@
+package ProyectoGitVSC;
 public class Saludo {
 
-    public void imprimirSaludo() {
+    public void mostrarSaludo() {
         System.out.println("Hola");
     }
 
-    public void imprimirDespedida() {
+    public void mostrarDespedida() {
         System.out.println("Adiós");
     }
 
